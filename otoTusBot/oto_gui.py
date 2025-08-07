@@ -379,3 +379,4 @@ if __name__ == "__main__":
     show_loading_screen()  # Yükleme ekranı varsa bunu çağır
     # Eğer yükleme ekranı istemiyorsanız, doğrudan ana arayüzü başlatabilirsiniz:
     # start_gui()
+    # first commit
